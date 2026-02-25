@@ -1,0 +1,5 @@
+package com.securin.weather.entity;
+
+public class Weather {
+
+}
